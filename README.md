@@ -1,6 +1,6 @@
 # Scholarship Tracker
 
-Trying to build a useful app for aspirants of higher studies who are looking for scholarships. This is the first noob version.
+Trying to build a useful app for aspirants of higher studies who are looking for scholarships. This is the first noob version. Using Codex here fully
 
 ## Local development
 
